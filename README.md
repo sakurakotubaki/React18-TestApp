@@ -22,3 +22,10 @@
 - remove：削除（ファイル）
 - upgrade：バージョンアップ
 - revert：変更取り消し
+
+------
+## ESlint Settings
+ - Airbubを選択
+   - codeing規約
+   - クォーとは[""]
+   - [,]は必ずつける!
