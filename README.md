@@ -27,5 +27,5 @@
 ## ESlint Settings
  - Airbubを選択
    - codeing規約
-   - クォーとは[""]
+   - クォートは[""]
    - [,]は必ずつける!
